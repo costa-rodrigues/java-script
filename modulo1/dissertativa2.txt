@@ -1,0 +1,27 @@
+Classes do diagrama e tipos de propriedades:
+Pessoa:
+Nome: string
+Lista de livros: livros
+
+Empréstimo:
+Data de retirada: Dante
+Data de devolução: Date
+Livro: livro 
+Usuário: usuário 
+
+Usuário:
+Idade: int
+Histórico de empréstimo: empréstimo
+
+Livro:
+Título: string
+Autor: autor
+Gênero: string
+
+Relações:
+1 autor é 1 pessoa
+1 usuário é 1 pessoa
+1 livro possuí 1 autor principal 
+Cada autor pode escrever X vezes , porém não pode estar em mais de um empréstimo por vez.
+Cada usuário pode realizar Y empréstimos por vez.
+A quantidade mínima de empréstimo é de pelo menos 1 livros para apenas 1 usuário.
