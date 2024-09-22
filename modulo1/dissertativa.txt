@@ -1,1 +1,4 @@
-
+Exercício 2 
+Resposta : C (programação orientada a objetos)
+A programação orientada a objetos permite uma melhor estrutura, natural e eficiente, o controle absoluto sobre o funcionamento de cada parte do sistema de forma personalizada e eficaz.
+A programação orientada a objetos permite uma modelagem da estrutura do sistema. Possibilita também a reutilização de código. Há a facilidade de inclusão de novos livros, datas , autores...
